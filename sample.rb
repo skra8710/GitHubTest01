@@ -5,4 +5,4 @@ puts 'Hello World!'
 puts 'Tell me your favorite color: '
 color = gets.chomp
 puts "Neato, #{color} is a nice color.'
-puts 'But I like beige."
+puts 'Well I like beige.'
